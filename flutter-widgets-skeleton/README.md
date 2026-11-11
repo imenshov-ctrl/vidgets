@@ -1,4 +1,4 @@
-# flutter-widgets-[прізвище]
+# flutter-widgets
 
 Практична робота 5 «Розробка віджетів у Flutter» 
 ## Опис проєкту
